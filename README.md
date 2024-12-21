@@ -1,0 +1,3 @@
+# Uncommon JavaScript Error: Incorrect Operator Usage
+
+This repository demonstrates a common, yet easily overlooked, error in JavaScript: using the wrong arithmetic operator.  The provided code includes functions for addition, subtraction, multiplication, and division.  The `divide` function includes error handling for division by zero. However, the main part of the code showcases how incorrect usage of the functions, although syntactically correct, can lead to unexpected and incorrect results. This example highlights the importance of careful operator selection and thorough testing.
